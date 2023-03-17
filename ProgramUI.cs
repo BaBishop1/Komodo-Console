@@ -353,6 +353,9 @@ using System.Threading.Tasks;
                     int newI = int.Parse(updatedInfo);
                     chosenTeam.TeamId = newI;
                     break;
+                default:
+                    System.Console.WriteLine("Please re-enter the information:");
+                    break;
             }
             bool wasUpdated = _devTeamRepo.UpdateDevTeamList(input, chosenTeam);
             if (wasUpdated)
