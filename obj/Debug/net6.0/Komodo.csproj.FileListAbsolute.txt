@@ -1,0 +1,15 @@
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\Komodo.csproj.AssemblyReference.cache
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\Komodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\Komodo.AssemblyInfoInputs.cache
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\Komodo.AssemblyInfo.cs
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\Komodo.csproj.CoreCompileInputs.cache
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\bin\Debug\net6.0\Komodo.exe
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\bin\Debug\net6.0\Komodo.deps.json
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\bin\Debug\net6.0\Komodo.runtimeconfig.json
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\bin\Debug\net6.0\Komodo.dll
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\bin\Debug\net6.0\Komodo.pdb
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\Komodo.dll
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\refint\Komodo.dll
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\Komodo.pdb
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\Komodo.genruntimeconfig.cache
+C:\Users\Bisho\CodingFoundations\assignments\Komodo\obj\Debug\net6.0\ref\Komodo.dll
