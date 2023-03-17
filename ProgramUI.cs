@@ -165,7 +165,8 @@ using System.Threading.Tasks;
         {
             Console.Clear();
             ViewAllDevs();
-            System.Console.WriteLine("Which Dev's info would you like to update?");
+            System.Console.WriteLine("Which Dev's info would you like to update?" +
+            "Enter their Id:");
             int input4 = int.Parse(Console.ReadLine());
             Developer chosenOne = _devRepo.GetDevById(input4);
             System.Console.WriteLine("What would you like to change here? \n" +
@@ -352,9 +353,6 @@ using System.Threading.Tasks;
                 case "2":
                     int newI = int.Parse(updatedInfo);
                     chosenTeam.TeamId = newI;
-                    break;
-                default:
-                    System.Console.WriteLine("Please re-enter the information:");
                     break;
             }
             bool wasUpdated = _devTeamRepo.UpdateDevTeamList(input, chosenTeam);
